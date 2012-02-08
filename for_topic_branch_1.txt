@@ -1,1 +1,4 @@
 Now adding some text to this file.  Want to try reverting back to empty file after commiting this change.
+
+Hmmm.  Don't know how to revert to specific commit.  Just saw how you "revert" to old working copy though
+when changing branches.  I think that is all I need.
